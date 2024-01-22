@@ -4,4 +4,4 @@
 #### Image:
 
 #### Avatar:
-<img src= "https://i.redd.it/0f3yypofqbp41.jpg" width = "75">
+<img src= "https://i.pinimg.com/564x/c2/f4/89/c2f4896b9faa49e2c790c0c3206f6b95.jpg" width = "75">
