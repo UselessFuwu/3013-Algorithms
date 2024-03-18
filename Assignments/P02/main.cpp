@@ -307,7 +307,8 @@ int main(int argc, char **argv) {
       if (matches.size() == 1) {
         // Enter key logic
         //if ((int)k == 10) {
-          cout << "Definition: " << dictionary[matches[0]]
+          cout << "Definition: " << fg::reset
+             << fgB::magenta << dictionary[matches[0]]
                << endl; // Print the definition
        // }
       }
@@ -319,4 +320,3 @@ int main(int argc, char **argv) {
   
   return 0;
 }
-
