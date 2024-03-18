@@ -2,4 +2,4 @@
 
 |   #   | Folder Link | Assignment Description |
 | :---: | ----------- | ---------------------- |
-|   1   | [P02  ](url)       | description 0          |
+|   1   | [P02  ]([url](https://github.com/UselessFuwu/3013Algorithms/tree/main/Assignments/P02)https://github.com/UselessFuwu/3013-Algorithms/tree/main/Assignments/P02)       | description 0          |
